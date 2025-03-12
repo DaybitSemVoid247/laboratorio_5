@@ -17,6 +17,6 @@ if __name__ == "__main__":    #inicio de la ejecucion del programa
 
     resultado = buscar_alumno(alumnos, nombre_buscar)   #resultado de la busqueda 
     if resultado:                    
-        print(f"Alumno encontrado: {resultado}")
+        print(f"Alumno encontrado: {resultado}") #por si se es verdad 
     else:
-        print("Alumno no encontrado.")
+        print("Alumno no encontrado.")   #por si es falso

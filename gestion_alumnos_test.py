@@ -1,4 +1,4 @@
-import unittest   #libreria
+import unittest   #libreria de pruebas unitarias
 from laboratorio_5.gestion_alumnos import buscar_alumno
 
 class TestGestionAlumnos(unittest.TestCase):   #creacion de la lista de la clase
